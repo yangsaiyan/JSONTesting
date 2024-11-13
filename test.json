@@ -1,0 +1,98 @@
+[
+    {
+        "newJobsCount": 0,
+        "jobAlert": {
+            "id": "120552",
+            "title": "Scientist",
+            "medium": "all",
+            "frequency": "daily",
+            "ownerId": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+            "createdAt": "2024-11-13 16:15:25 +0800",
+            "updatedAt": "2024-11-13 16:15:25 +0800",
+            "owner": {
+                "id": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+                "email": "ziyangtest@test.com"
+            }
+        }
+    },
+    {
+        "newJobsCount": 0,
+        "jobAlert": {
+            "id": "120553",
+            "title": "DADA",
+            "medium": "all",
+            "frequency": "daily",
+            "ownerId": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+            "createdAt": "2024-11-13 17:20:05 +0800",
+            "updatedAt": "2024-11-13 17:20:05 +0800",
+            "owner": {
+                "id": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+                "email": "ziyangtest@test.com"
+            }
+        }
+    },
+    {
+        "newJobsCount": 0,
+        "jobAlert": {
+            "id": "120554",
+            "title": "NA",
+            "medium": "all",
+            "frequency": "daily",
+            "ownerId": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+            "createdAt": "2024-11-13 17:20:20 +0800",
+            "updatedAt": "2024-11-13 17:20:20 +0800",
+            "owner": {
+                "id": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+                "email": "ziyangtest@test.com"
+            }
+        }
+    },
+    {
+        "newJobsCount": 0,
+        "jobAlert": {
+            "id": "120555",
+            "title": "Eh",
+            "medium": "email",
+            "frequency": "weekly",
+            "ownerId": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+            "createdAt": "2024-11-13 17:20:30 +0800",
+            "updatedAt": "2024-11-13 17:20:30 +0800",
+            "owner": {
+                "id": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+                "email": "ziyangtest@test.com"
+            }
+        }
+    },
+    {
+        "newJobsCount": 0,
+        "jobAlert": {
+            "id": "120556",
+            "title": "Meh",
+            "medium": "notification",
+            "frequency": "weekly",
+            "ownerId": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+            "createdAt": "2024-11-13 17:20:42 +0800",
+            "updatedAt": "2024-11-13 17:20:42 +0800",
+            "owner": {
+                "id": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+                "email": "ziyangtest@test.com"
+            }
+        }
+    },
+    {
+        "newJobsCount": 0,
+        "jobAlert": {
+            "id": "120557",
+            "title": "ABCDE",
+            "medium": "all",
+            "frequency": "daily",
+            "ownerId": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+            "createdAt": "2024-11-13 17:21:26 +0800",
+            "updatedAt": "2024-11-13 17:21:26 +0800",
+            "owner": {
+                "id": "1e66d7a8-19d0-48ed-bde5-2e20a77eee2d",
+                "email": "ziyangtest@test.com"
+            }
+        }
+    }
+]
